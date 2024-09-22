@@ -2,15 +2,15 @@
 repo: thalatta  # The name of this repository
 
 sites:
-  - name: Thalatta
+  - name: Thalatta-Thalatta.com
     url: https://thalatta-thalatta.com
   - name: Thalatta.art
     url: https://thalatta.art
   - name: Peridot Homes
     url: https://peridot-homes.com
-  - name: IPv6 test
-    url: https://forwardemail.net
-    port: 80
+  - name: Staging.peridot-homes.com
+    url: https://staging.peridot-homes.com
+    port: 443
     check: "tcp-ping"
   
 
@@ -19,12 +19,10 @@ status-website:
   cname: status.thalatta-thalatta.com
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # baseUrl: /thalatta
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://thalatta-thalatta.com/wp-content/themes/thalata-com/assets/logo-dark.svg
   name: Upptime
   introMessage: This is **real-time** data from Thalatta S.A
   navbar:
-    - title: Status
+    - title: Thalatta-Thalatta  S.A.
       href: /
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
