@@ -26,6 +26,6 @@ status-website:
   name: Thalatta-thalatta S.A
   introMessage: This is **real-time** monitoring
   navbar:
-    - title:   
+    - title: Status
       href: /
 
