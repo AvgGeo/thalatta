@@ -10,7 +10,7 @@ sites:
     url: https://peridot-homes.com
   - name: Staging.peridot-homes.com
     url: https://staging.peridot-homes.com
-    port: 443
+    port: 80
     check: "tcp-ping"
   
 
