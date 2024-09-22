@@ -1,6 +1,6 @@
 # Change these first
-owner: repo  # Your GitHub organization or username, where this repository lives
-repo: thalatta # The name of this repository
+owner: AvgGeo  # Your GitHub organization or username
+repo: thalatta  # The name of this repository
 
 sites:
   - name: Thalatta
@@ -8,26 +8,24 @@ sites:
   - name: Thalatta.art
     url: https://thalatta.art
   - name: Peridot Homes
-    url: https://Peridot-homes.com
+    url: https://peridot-homes.com
   - name: IPv6 test
-    url: forwardemail.net
+    url: https://forwardemail.net
     port: 80
     check: "tcp-ping"
     ipv6: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.thalatta-thalatta.com
+  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # baseUrl: /thalatta
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introMessage: This is  **real-time** data from Thalatta S.A
+  introMessage: This is **real-time** data from Thalatta S.A
   navbar:
     - title: Status
       href: /
-
-
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
