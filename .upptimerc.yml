@@ -2,13 +2,13 @@
 repo: thalatta  # The name of this repository
 owner: AvgGeo
 sites:
-  - name: Thalatta-Thalatta.com
+  - name: thalatta-Thalatta.com
     url: https://thalatta-thalatta.com
-  - name: Thalatta.art
+  - name: thalatta.art
     url: https://thalatta.art
-  - name: Peridot Homes
+  - name: peridot-homes.com
     url: https://peridot-homes.com
-  - name: Staging Peridot Homes
+  - name: staging.peridot-homes.com
     url: https://staging.peridot-homes.com
   - name: IPv4 test
     url: 31.220.75.11
@@ -26,6 +26,6 @@ status-website:
   name: Thalatta-thalatta S.A
   introMessage: This is **real-time** monitoring
   navbar:
-    - title: Status
+    - title:   
       href: /
 
