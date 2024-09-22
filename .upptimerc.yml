@@ -1,6 +1,6 @@
 # Change these first
 repo: thalatta  # The name of this repository
-
+owner: AvgGeo
 sites:
   - name: Thalatta-Thalatta.com
     url: https://thalatta-thalatta.com
@@ -8,15 +8,13 @@ sites:
     url: https://thalatta.art
   - name: Peridot Homes
     url: https://peridot-homes.com
-  - name: Staging.peridot-homes.com
+  - name: Staging Peridot Homes
     url: https://staging.peridot-homes.com
   - name: IPv4 test
-    url: forwardemail.net
+    url: 31.220.75.11
     port: 80
     check: "tcp-ping"
     ipv4: true
-    port: 80
-    check: "tcp-ping"
   
 
 status-website:
