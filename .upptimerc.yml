@@ -23,8 +23,9 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # baseUrl: /thalatta
   logoUrl: https://thalatta-thalatta.com/wp-content/themes/thalata-com/assets/logo-dark.svg
-  introMessage: This is **real-time** data from Thalatta S.A
+  name: Thalatta-thalatta S.A
+  introMessage: This is **real-time** monitoring
   navbar:
-    - title: Thalatta-Thalatta  S.A.
+    - title: Status
       href: /
 
