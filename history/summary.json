@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1028,
-    "timeDay": 1028,
-    "timeWeek": 1028,
-    "timeMonth": 1028,
-    "timeYear": 1028,
+    "time": 933,
+    "timeDay": 933,
+    "timeWeek": 933,
+    "timeMonth": 933,
+    "timeYear": 933,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3301,
-    "timeDay": 3301,
-    "timeWeek": 3301,
-    "timeMonth": 3301,
-    "timeYear": 3301,
+    "time": 3324,
+    "timeDay": 3324,
+    "timeWeek": 3324,
+    "timeMonth": 3324,
+    "timeYear": 3324,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 759,
-    "timeDay": 759,
-    "timeWeek": 759,
-    "timeMonth": 759,
-    "timeYear": 759,
+    "time": 722,
+    "timeDay": 722,
+    "timeWeek": 722,
+    "timeMonth": 722,
+    "timeYear": 722,
     "dailyMinutesDown": {}
   },
   {
@@ -59,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/staging.peridot-homes.com.ico",
     "slug": "staging-peridot-homes-com",
     "status": "down",
-    "uptime": "3.76%",
-    "uptimeDay": "3.76%",
-    "uptimeWeek": "3.76%",
-    "uptimeMonth": "3.76%",
-    "uptimeYear": "3.76%",
+    "uptime": "0.22%",
+    "uptimeDay": "0.22%",
+    "uptimeWeek": "0.22%",
+    "uptimeMonth": "0.22%",
+    "uptimeYear": "0.22%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-22": 0
+      "2024-09-22": 2
     }
   }
 ]
