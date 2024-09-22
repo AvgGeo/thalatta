@@ -10,6 +10,11 @@ sites:
     url: https://peridot-homes.com
   - name: Staging.peridot-homes.com
     url: https://staging.peridot-homes.com
+  - name: IPv4 test
+    url: forwardemail.net
+    port: 80
+    check: "tcp-ping"
+    ipv4: true
     port: 80
     check: "tcp-ping"
   
