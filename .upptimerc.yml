@@ -25,7 +25,4 @@ status-website:
   logoUrl: https://thalatta-thalatta.com/wp-content/themes/thalata-com/assets/logo-dark.svg
   name: Thalatta-thalatta S.A
   introMessage: This is **real-time** monitoring
-  navbar:
-    - title: Status
-      href: /
 
