@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1389,
-    "timeDay": 1525,
-    "timeWeek": 1389,
-    "timeMonth": 1389,
-    "timeYear": 1389,
+    "time": 1560,
+    "timeDay": 3617,
+    "timeWeek": 1560,
+    "timeMonth": 1560,
+    "timeYear": 1560,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4648,
-    "timeDay": 10162,
-    "timeWeek": 4648,
-    "timeMonth": 4648,
-    "timeYear": 4648,
+    "time": 5142,
+    "timeDay": 12545,
+    "timeWeek": 5142,
+    "timeMonth": 5142,
+    "timeYear": 5142,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1087,
-    "timeDay": 982,
-    "timeWeek": 1087,
-    "timeMonth": 1087,
-    "timeYear": 1087,
+    "time": 1467,
+    "timeDay": 3363,
+    "timeWeek": 1467,
+    "timeMonth": 1467,
+    "timeYear": 1467,
     "dailyMinutesDown": {}
   },
   {
@@ -59,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/staging.peridot-homes.com.ico",
     "slug": "staging-peridot-homes-com",
     "status": "up",
-    "uptime": "98.58%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.58%",
-    "uptimeMonth": "98.58%",
-    "uptimeYear": "98.58%",
-    "time": 6765,
-    "timeDay": 11187,
-    "timeWeek": 6765,
-    "timeMonth": 6765,
-    "timeYear": 6765,
-    "dailyMinutesDown": {
-      "2024-09-22": 31
-    }
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 9658,
+    "timeDay": 24119,
+    "timeWeek": 9658,
+    "timeMonth": 9658,
+    "timeYear": 9658,
+    "dailyMinutesDown": {}
   },
   {
     "name": "IPv4 test",
@@ -84,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 109,
-    "timeDay": 98,
-    "timeWeek": 109,
-    "timeMonth": 109,
-    "timeYear": 109,
+    "time": 108,
+    "timeDay": 97,
+    "timeWeek": 108,
+    "timeMonth": 108,
+    "timeYear": 108,
     "dailyMinutesDown": {}
   }
 ]
