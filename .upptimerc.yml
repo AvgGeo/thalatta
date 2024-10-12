@@ -9,6 +9,10 @@ sites:
   - name: peridot-homes.com
     url: https://peridot-homes.com
   - name: staging.peridot-homes.com
+  - name: peridot-homes.gr
+    url: https://peridot-homes.gr
+    - name: peridot.homes
+    url: https://peridot.homes
     url: https://staging.peridot-homes.com
   - name: IPv4 test
     url: 31.220.75.11
