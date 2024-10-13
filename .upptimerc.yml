@@ -14,7 +14,17 @@ sites:
     url: http://peridot-homes.gr
     - name: peridot.homes
     url: http://peridot.homes
-  - name: IPv4 test
+ - name: peridot-homes.gr
+    url: 31.220.75.11
+    port: 80
+    check: "tcp-ping"
+    ipv4: true
+   - name: peridot.homes
+    url: 31.220.75.11
+    port: 80
+    check: "tcp-ping"
+    ipv4: true
+     - name: IPv4 test
     url: 31.220.75.11
     port: 80
     check: "tcp-ping"
