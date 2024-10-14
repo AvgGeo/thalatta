@@ -10,17 +10,7 @@ sites:
     url: https://peridot-homes.com
   - name: staging.peridot-homes.com
    url: https://staging.peridot-homes.com
-  - name: peridot-homes.gr
-    url: 31.220.75.11
-    port: 80
-    check: "tcp-ping"
-    ipv4: true
-   - name: peridot.homes
-    url: 31.220.75.11
-    port: 80
-    check: "tcp-ping"
-    ipv4: true
-     - name: IPv4 test
+  - name: IPv4 test
     url: 31.220.75.11
     port: 80
     check: "tcp-ping"
