@@ -11,10 +11,6 @@ sites:
   - name: staging.peridot-homes.com
    url: https://staging.peridot-homes.com
   - name: peridot-homes.gr
-    url: http://peridot-homes.gr
-    - name: peridot.homes
-    url: http://peridot.homes
- - name: peridot-homes.gr
     url: 31.220.75.11
     port: 80
     check: "tcp-ping"
