@@ -8,6 +8,10 @@ sites:
     url: https://thalatta.art
   - name: peridot-homes.com
     url: https://peridot-homes.com
+  - name: peridot-homes.gr
+    url: http://peridot-homes.gr
+  - name: peridot.homes
+    url: http://peridot.homes
   - name: staging.peridot-homes.com
     url: https://staging.peridot-homes.com
   - name: IPv4 test
