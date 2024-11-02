@@ -1,7 +1,7 @@
 url: http://peridot.homes
-status: down
-code: 503
-responseTime: 6878
-lastUpdated: 2024-11-02T06:28:45.948Z
+status: up
+code: 200
+responseTime: 936
+lastUpdated: 2024-11-02T07:20:30.113Z
 startTime: 2024-10-14T15:26:54.333Z
 generator: Upptime <https://github.com/upptime/upptime>
