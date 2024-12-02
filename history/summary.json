@@ -4,7 +4,7 @@
     "url": "https://thalatta-thalatta.com",
     "icon": "https://icons.duckduckgo.com/ip3/thalatta-thalatta.com.ico",
     "slug": "thalatta-thalatta-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -49,7 +49,7 @@
     "time": 2135,
     "timeDay": 3726,
     "timeWeek": 2554,
-    "timeMonth": 2542,
+    "timeMonth": 2369,
     "timeYear": 2135,
     "dailyMinutesDown": {}
   },
@@ -67,7 +67,7 @@
     "time": 782,
     "timeDay": 638,
     "timeWeek": 758,
-    "timeMonth": 678,
+    "timeMonth": 653,
     "timeYear": 782,
     "dailyMinutesDown": {}
   },
@@ -85,7 +85,7 @@
     "time": 781,
     "timeDay": 754,
     "timeWeek": 583,
-    "timeMonth": 794,
+    "timeMonth": 587,
     "timeYear": 781,
     "dailyMinutesDown": {}
   },
