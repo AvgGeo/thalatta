@@ -22,7 +22,7 @@
     "url": "https://thalatta.art",
     "icon": "https://icons.duckduckgo.com/ip3/thalatta.art.ico",
     "slug": "thalatta-art",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -31,7 +31,7 @@
     "time": 7342,
     "timeDay": 4124,
     "timeWeek": 4129,
-    "timeMonth": 5036,
+    "timeMonth": 5043,
     "timeYear": 7342,
     "dailyMinutesDown": {}
   },
